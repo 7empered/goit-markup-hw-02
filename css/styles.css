@@ -19,7 +19,7 @@ body {
 }
 
 /* ------------------ Header ------------------ */
-.menu .page-logo {
+ .page-logo {
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;
     font-weight: 700;
@@ -42,8 +42,7 @@ body {
 }
 
 .menu-item .menu-link:hover,
-.menu-item .menu-link:focus,
-.menu.item .menu-link:active {
+.menu-item .menu-link:focus {
     color: #404bbf;
 }
 
@@ -58,8 +57,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.contact-list-item:hover,
-.contact-list-item:focus {
+.contact-list .contact-list-item:hover,
+.contact-list .contact-list-item:focus {
     color: #404BBF
 }
 
@@ -121,7 +120,7 @@ body {
     color: #2e2f42;
 }
 
-.team-list {
+.team-list .team-list-item {
     background-color: #ffffff;
 }
 
