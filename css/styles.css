@@ -158,6 +158,10 @@ body {
     letter-spacing: 0.02em;
 }
 
+.portfolio-list-item {
+    background-color: #ffffff;
+}
+
 /* ------------------ Footer ------------------ */
 .page-footer {
     background-color: #2e2f42;
