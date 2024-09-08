@@ -19,7 +19,7 @@ body {
 }
 
 /* ------------------ Header ------------------ */
-.page-logo {
+.menu-link.page-logo {
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;
     font-weight: 700;
