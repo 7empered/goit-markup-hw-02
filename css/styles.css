@@ -42,7 +42,8 @@ body {
 }
 
 .menu-item .menu-link:hover,
-.menu-item .menu-link:focus {
+.menu-item .menu-link:focus
+ {
     color: #404bbf;
 }
 
@@ -57,8 +58,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.contact-list .contact-list-item:hover,
-.contact-list .contact-list-item:focus {
+.contact-list-item .contact-link:hover,
+.contact-list-item .contact-link:focus {
     color: #404BBF
 }
 
